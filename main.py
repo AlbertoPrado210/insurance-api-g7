@@ -18,4 +18,4 @@ def index():
         "message": "Bienvenido a mi API"
     }
     
-#Base.metadata.create_all(engine)
+Base.metadata.create_all(engine)
